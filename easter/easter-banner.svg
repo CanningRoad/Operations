@@ -26,9 +26,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.059319577"
-     inkscape:cx="6673.2597"
-     inkscape:cy="501.57277"
+     inkscape:zoom="0.07359372"
+     inkscape:cx="6063.2101"
+     inkscape:cy="520.79311"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -36,7 +36,8 @@
      inkscape:window-height="715"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1"
+     inkscape:snap-global="false" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -45,7 +46,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -55,41 +56,41 @@
      id="layer1"
      transform="translate(0,203)">
     <image
-       sodipodi:absref="C:\Projects\ste\ChurchWebsite\resources\jordan-wozniak-256456-unsplash.jpg"
+       sodipodi:absref="C:\Projects\ste\CanningRoadOperations\easter\jordan-wozniak-256456-unsplash.jpg"
        xlink:href="jordan-wozniak-256456-unsplash.jpg"
-       width="3000"
-       height="3000"
-       preserveAspectRatio="none"
-       id="image4534"
+       y="-1691.3457"
        x="2.947"
-       y="-1784.8206" />
+       id="image4534"
+       preserveAspectRatio="none"
+       height="3000"
+       width="3000" />
     <ellipse
        style="opacity:1;vector-effect:none;fill:#5aa3ab;fill-opacity:1;stroke:none;stroke-width:3.78768206;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="path4549"
-       cx="2940.7808"
-       cy="47.000031"
+       cx="2778.9973"
+       cy="-441.94568"
        rx="467.90268"
        ry="390.32294" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot4485"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Cabin;-inkscape-font-specification:Cabin;letter-spacing:0px;word-spacing:0px;fill:#202d2f;fill-opacity:1;stroke:none"
-       transform="matrix(0.67197387,0,0,0.67197387,-1305.563,-265.60717)"><flowRegion
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Cabin;-inkscape-font-specification:Cabin;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.95054119,0,0,0.95054119,-2516.9879,-475.10281)"><flowRegion
          id="flowRegion4487"
-         style="fill:#202d2f;fill-opacity:1"><rect
+         style="fill:#000000;fill-opacity:1"><rect
            id="rect4489"
            width="2678.7073"
            height="483.87234"
            x="2760.135"
            y="140.38246"
-           style="fill:#202d2f;fill-opacity:1" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:191.74902344px;line-height:1;font-family:Cabin;-inkscape-font-specification:'Cabin Bold';text-align:start;text-anchor:start;fill:#202d2f;fill-opacity:1"
+           style="fill:#000000;fill-opacity:1" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:191.74902344px;line-height:1;font-family:Cabin;-inkscape-font-specification:'Cabin Bold';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1"
          id="flowPara4493">EASTER FAMILY FÊTE</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:191.74902344px;line-height:1;font-family:Cabin;-inkscape-font-specification:'Cabin Bold';text-align:start;text-anchor:start;fill:#202d2f;fill-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:191.74902344px;line-height:1;font-family:Cabin;-inkscape-font-specification:'Cabin Bold';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1"
          id="flowPara4507">SATURDAY 31st MARCH</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:191.74902344px;line-height:1;font-family:Cabin;-inkscape-font-specification:'Cabin Bold';text-align:start;text-anchor:start;fill:#202d2f;fill-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:191.74902344px;line-height:1;font-family:Cabin;-inkscape-font-specification:'Cabin Bold';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1"
          id="flowPara4539" /><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:191.74902344px;line-height:1;font-family:Cabin;-inkscape-font-specification:'Cabin Bold';text-align:start;text-anchor:start;fill:#202d2f;fill-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:191.74902344px;line-height:1;font-family:Cabin;-inkscape-font-specification:'Cabin Bold';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1"
          id="flowPara4505" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4495"
@@ -100,8 +101,8 @@
            height="77.750282"
            x="6984.5669"
            y="2265.5569" /></flowRegion><flowPara
-         id="flowPara4501"></flowPara></flowRoot>    <flowRoot
-       transform="matrix(1.6059034,0,0,1.6059034,-1899.91,-263.50372)"
+         id="flowPara4501" /></flowRoot>    <flowRoot
+       transform="matrix(1.6059034,0,0,1.6059034,-1966.1177,-560.41015)"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:80.18158722px;line-height:1.25;font-family:Cabin;-inkscape-font-specification:Cabin;letter-spacing:0px;word-spacing:0px;fill:#faf2ef;fill-opacity:1;stroke:none"
        id="flowRoot4519"
        xml:space="preserve"><flowRegion
@@ -117,18 +118,18 @@
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:87.87023926px;line-height:1;font-family:Cabin;-inkscape-font-specification:'Cabin Bold';fill:#faf2ef;fill-opacity:1">2-4pm</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4541"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Cabin;-inkscape-font-specification:Cabin;letter-spacing:0px;word-spacing:0px;fill:#faf9f9;fill-opacity:1;stroke:none"
-       transform="matrix(0.15558437,0,0,0.15558437,549.23704,-133.27297)"><flowRegion
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Cabin;-inkscape-font-specification:Cabin;letter-spacing:0px;word-spacing:0px;fill:#faf9f9;fill-opacity:1;stroke:#000000;stroke-width:5.7763443"
+       transform="matrix(0.18648804,0,0,0.18648804,622.11782,-47.260398)"><flowRegion
          id="flowRegion4543"
-         style="fill:#faf9f9;fill-opacity:1"><rect
+         style="fill:#faf9f9;fill-opacity:1;stroke:#000000;stroke-width:5.7763443"><rect
            id="rect4545"
            width="15737.129"
            height="2408.4084"
            x="5.0770831"
            y="1884.6868"
-           style="fill:#faf9f9;fill-opacity:1" /></flowRegion><flowPara
+           style="fill:#faf9f9;fill-opacity:1;stroke:#000000;stroke-width:5.7763443" /></flowRegion><flowPara
          id="flowPara4547"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:702.66668701px;font-family:Cabin;-inkscape-font-specification:'Cabin Semi-Bold';fill:#faf9f9;fill-opacity:1">Games, Treasure Hunt &amp; Hot Cross Buns </flowPara></flowRoot>    <flowRoot
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:702.66668701px;font-family:Cabin;-inkscape-font-specification:'Cabin Semi-Bold';fill:#faf9f9;fill-opacity:1;stroke:#000000;stroke-width:5.7763443">Games, Treasure Hunt, &amp; Hot Cross Buns </flowPara></flowRoot>    <flowRoot
        transform="matrix(1.2876307,0,0,1.2876307,3086.3584,-1230.7919)"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Cabin;-inkscape-font-specification:Cabin;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.40787923"
        id="flowRoot4887"
@@ -983,17 +984,17 @@
          inkscape:export-filename="C:\Users\Ste\OneDrive\Documents\Worship\Canning Road\Websites\canning-road-jekyll\img\logo-filled-512.png" />
     </g>
     <ellipse
-       ry="390.32294"
-       rx="467.90268"
-       cy="47.000031"
-       cx="-25.772463"
+       ry="241.12259"
+       rx="360.047"
+       cy="431.58417"
+       cx="212.80203"
        id="ellipse4899"
-       style="opacity:1;vector-effect:none;fill:#b14927;fill-opacity:1;stroke:none;stroke-width:3.78768206;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+       style="opacity:1;vector-effect:none;fill:#b14927;fill-opacity:1;stroke:none;stroke-width:2.61145329;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot4891"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:533.33331299px;line-height:1.25;font-family:Cabin;-inkscape-font-specification:Cabin;letter-spacing:0px;word-spacing:0px;fill:#faf9f9;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,-61.72073,505.63968)"><flowRegion
+       transform="matrix(0.26458333,0,0,0.26458333,27.350061,829.61115)"><flowRegion
          id="flowRegion4893"
          style="font-size:533.33331299px;fill:#faf9f9;fill-opacity:1"><rect
            id="rect4895"
@@ -1004,55 +1005,13 @@
            style="font-size:533.33331299px;fill:#faf9f9;fill-opacity:1" /></flowRegion><flowPara
          id="flowPara4897"
          style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:533.33331299px;font-family:Cabin;-inkscape-font-specification:'Cabin Bold Italic';fill:#faf9f9;fill-opacity:1">FREE!</flowPara></flowRoot>    <rect
-       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:4.24416685;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4537"
-       width="2997.3132"
-       height="497.31339"
-       x="1.3433115"
-       y="-201.65666"
-       inkscape:export-xdpi="11.575145"
-       inkscape:export-ydpi="11.575145" />
-    <flowRoot
-       transform="matrix(0.07966638,0,0,0.07966638,549.35702,-28.302721)"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Cabin;-inkscape-font-specification:Cabin;letter-spacing:0px;word-spacing:0px;fill:#faf9f9;fill-opacity:1;stroke:none"
-       id="flowRoot4907"
-       xml:space="preserve"><flowRegion
-         style="fill:#faf9f9;fill-opacity:1"
-         id="flowRegion4903"><rect
-           style="fill:#faf9f9;fill-opacity:1"
-           y="1884.6868"
-           x="5.0770831"
-           height="2408.4084"
-           width="15737.129"
-           id="rect4901" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:702.66668701px;font-family:Cabin;-inkscape-font-specification:'Cabin Bold';fill:#faf9f9;fill-opacity:1"
-         id="flowPara4905">FREE</flowPara></flowRoot>    <flowRoot
-       xml:space="preserve"
-       id="flowRoot4915"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Cabin;-inkscape-font-specification:Cabin;letter-spacing:0px;word-spacing:0px;fill:#faf9f9;fill-opacity:1;stroke:none"
-       transform="matrix(0.07966638,0,0,0.07966638,920.78235,-28.302721)"><flowRegion
-         id="flowRegion4911"
-         style="fill:#faf9f9;fill-opacity:1"><rect
-           id="rect4909"
-           width="15737.129"
-           height="2408.4084"
-           x="5.0770831"
-           y="1884.6868"
-           style="fill:#faf9f9;fill-opacity:1" /></flowRegion><flowPara
-         id="flowPara4913"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:702.66668701px;font-family:Cabin;-inkscape-font-specification:'Cabin Bold';fill:#faf9f9;fill-opacity:1">FREE</flowPara></flowRoot>    <flowRoot
-       transform="matrix(0.07966638,0,0,0.07966638,1699.9378,-28.302721)"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Cabin;-inkscape-font-specification:Cabin;letter-spacing:0px;word-spacing:0px;fill:#faf9f9;fill-opacity:1;stroke:none"
-       id="flowRoot4923"
-       xml:space="preserve"><flowRegion
-         style="fill:#faf9f9;fill-opacity:1"
-         id="flowRegion4919"><rect
-           style="fill:#faf9f9;fill-opacity:1"
-           y="1884.6868"
-           x="5.0770831"
-           height="2408.4084"
-           width="15737.129"
-           id="rect4917" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:702.66668701px;font-family:Cabin;-inkscape-font-specification:'Cabin Bold';fill:#faf9f9;fill-opacity:1"
-         id="flowPara4921">FREE</flowPara></flowRoot>  </g>
+       width="2996.0691"
+       height="995.75586"
+       x="1.965395"
+       y="-450.8779"
+       inkscape:export-xdpi="107.4166"
+       inkscape:export-ydpi="107.4166" />
+  </g>
 </svg>
